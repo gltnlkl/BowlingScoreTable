@@ -11,8 +11,9 @@
 ##### Bowling Score Table 
 
 ## Description
-##### The bowling score table to count scores
-
+##### To run the project please follow the main method shown below
 
 ![alt text](https://github.com/gltnlkl/BowlingScoreTable/blob/main/src/main/java/com/gulukal/europaceagtaskgu/image/mainView.jpg)
+
+##### This is the Gui for score board
 ![alt text](https://github.com/gltnlkl/BowlingScoreTable/blob/main/src/main/java/com/gulukal/europaceagtaskgu/image/scoreBoard.jpg)
