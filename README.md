@@ -15,3 +15,4 @@
 
 
 ![alt text](https://github.com/gltnlkl/BowlingScoreTable/blob/main/src/main/java/com/gulukal/europaceagtaskgu/image/mainView.jpg)
+![alt text](https://github.com/gltnlkl/BowlingScoreTable/blob/main/src/main/java/com/gulukal/europaceagtaskgu/image/scoreBoard.jpg)
