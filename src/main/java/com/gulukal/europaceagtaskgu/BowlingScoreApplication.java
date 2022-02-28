@@ -7,21 +7,20 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class BowlingScoreApplication extends Application {
 
 
 
 
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("Hello!");
+        FXMLLoader fxmlLoader = new FXMLLoader(BowlingScoreApplication.class.getResource("bowlingScore-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 820, 210);
         stage.setScene(scene);
         stage.show();
 
         //toInitThe Method
-        HelloController controller = fxmlLoader.getController();
+        BowlingScoreController controller = fxmlLoader.getController();
         controller.initController();
     }
 
