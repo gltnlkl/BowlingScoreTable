@@ -10,6 +10,9 @@ import javafx.scene.control.Label;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Gulten Ulukal
+ */
 
 public class BowlingScoreController {
 
